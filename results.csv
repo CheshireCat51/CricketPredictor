@@ -1,0 +1,1027 @@
+,match_id,team_a,team_b,team_a_runs,team_b_runs
+0,1001349,Australia,Sri Lanka,168,172
+1,1001351,Australia,Sri Lanka,173,176
+2,1001353,Australia,Sri Lanka,187,146
+3,1004729,Hong Kong,Ireland,169,129
+4,1007655,Zimbabwe,India,170,168
+5,1007657,Zimbabwe,India,99,103
+6,1007659,India,Zimbabwe,138,135
+7,1019979,Bangladesh,New Zealand,141,143
+8,1019981,New Zealand,Bangladesh,195,148
+9,1019983,New Zealand,Bangladesh,194,167
+10,1020029,South Africa,New Zealand,185,107
+11,1031431,South Africa,England,142,143
+12,1031433,South Africa,England,174,171
+13,1031435,England,South Africa,181,162
+14,1031665,West Indies,England,176,155
+15,1034825,India,England,147,148
+16,1034827,India,England,144,139
+17,1034829,India,England,202,127
+18,1041615,West Indies,India,245,244
+19,1050217,West Indies,Pakistan,115,116
+20,1050219,Pakistan,West Indies,160,144
+21,1050221,West Indies,Pakistan,103,108
+22,1072316,New Zealand,Australia,117,96
+23,1072317,England,Australia,155,161
+24,1072318,England,Australia,137,138
+25,1072319,New Zealand,England,196,184
+26,1072320,New Zealand,Australia,243,245
+27,1072321,England,New Zealand,194,192
+28,1072322,New Zealand,Australia,150,121
+29,1074957,Scotland,Hong Kong,189,165
+30,1074959,Oman,Netherlands,146,148
+31,1074961,Hong Kong,Oman,87,89
+32,1074964,Scotland,Netherlands,148,141
+33,1074965,Ireland,United Arab Emirates,160,136
+34,1074966,Hong Kong,Netherlands,183,92
+35,1074968,Oman,Scotland,133,134
+36,1074970,Ireland,Scotland,211,113
+37,1075507,South Africa,Bangladesh,195,175
+38,1077947,West Indies,Pakistan,111,115
+39,1077948,Pakistan,West Indies,132,129
+40,1083449,Bangladesh,Sri Lanka,155,158
+41,1083450,Bangladesh,Sri Lanka,176,131
+42,1085495,Pakistan,West Indies,137,138
+43,1085496,West Indies,Pakistan,124,127
+44,1089202,Papua New Guinea,United Arab Emirates,102,108
+45,1089203,United Arab Emirates,Papua New Guinea,180,150
+46,1089243,Papua New Guinea,United Arab Emirates,128,130
+47,1098211,India,West Indies,190,194
+48,1109610,Sri Lanka,India,170,174
+49,1115798,New Zealand,West Indies,187,140
+50,1115800,New Zealand,West Indies,243,124
+51,1115807,Pakistan,New Zealand,105,106
+52,1115808,Pakistan,New Zealand,201,153
+53,1115809,Pakistan,New Zealand,181,163
+54,1117821,Pakistan,ICC World XI,197,177
+55,1117822,Pakistan,ICC World XI,174,175
+56,1117824,Pakistan,ICC World XI,183,150
+57,1119501,Australia,India,118,49
+58,1119502,India,Australia,118,122
+59,1119542,England,Australia,221,193
+60,1119543,England,India,159,163
+61,1119544,India,England,148,149
+62,1119545,England,India,198,201
+63,1120093,India,New Zealand,202,149
+64,1120094,New Zealand,India,196,156
+65,1120095,India,New Zealand,67,61
+66,1120291,Sri Lanka,Pakistan,102,103
+67,1120292,Sri Lanka,Pakistan,124,125
+68,1120293,Pakistan,Sri Lanka,180,144
+69,1122285,India,South Africa,203,175
+70,1122286,India,South Africa,188,189
+71,1122287,India,South Africa,172,165
+72,1122729,India,Sri Lanka,180,87
+73,1122730,India,Sri Lanka,260,172
+74,1122731,Sri Lanka,India,135,139
+75,1127300,Pakistan,Scotland,204,156
+76,1127301,Pakistan,Scotland,166,82
+77,1130746,Bangladesh,Sri Lanka,193,194
+78,1130747,Sri Lanka,Bangladesh,210,135
+79,1133817,India,Sri Lanka,174,175
+80,1133818,Bangladesh,India,139,140
+81,1133819,Sri Lanka,Bangladesh,214,215
+82,1133820,Sri Lanka,India,152,153
+83,1133821,India,Bangladesh,176,159
+84,1133822,Sri Lanka,Bangladesh,159,160
+85,1133823,Bangladesh,India,166,168
+86,1140069,Pakistan,West Indies,203,60
+87,1140070,Pakistan,West Indies,205,123
+88,1140071,West Indies,Pakistan,153,154
+89,1140384,England,Sri Lanka,187,157
+90,1140992,India,Ireland,208,132
+91,1140993,India,Ireland,213,70
+92,1141232,West Indies,ICC World XI,199,127
+93,1142501,Netherlands,Ireland,144,140
+94,1142502,Ireland,Netherlands,158,159
+95,1142505,Netherlands,Scotland,160,161
+96,1142506,Scotland,Netherlands,221,106
+97,1142589,South Africa,Sri Lanka,98,99
+98,1142913,Pakistan,Zimbabwe,182,108
+99,1142914,Pakistan,Australia,116,117
+100,1142915,Australia,Zimbabwe,229,129
+101,1142916,Zimbabwe,Pakistan,162,163
+102,1142917,Pakistan,Australia,194,149
+103,1142918,Zimbabwe,Australia,151,154
+104,1144149,South Africa,Zimbabwe,160,126
+105,1144150,Zimbabwe,South Africa,132,135
+106,1144161,South Africa,Pakistan,192,186
+107,1144162,South Africa,Pakistan,188,181
+108,1144163,Pakistan,South Africa,168,141
+109,1144173,South Africa,Sri Lanka,180,164
+110,1144174,South Africa,Sri Lanka,198,137
+111,1144989,South Africa,Australia,108,87
+112,1144990,Australia,India,158,169
+113,1144992,Australia,India,164,168
+114,1146723,Bangladesh,West Indies,143,93
+115,1146725,Bangladesh,West Indies,184,135
+116,1152840,Pakistan,England,173,175
+117,1153317,Bangladesh,West Indies,129,130
+118,1153318,Bangladesh,West Indies,211,175
+119,1153319,West Indies,Bangladesh,190,140
+120,1153696,New Zealand,India,219,139
+121,1153697,New Zealand,India,158,162
+122,1153698,New Zealand,India,212,208
+123,1153843,New Zealand,Sri Lanka,179,144
+124,1157372,Pakistan,Australia,155,89
+125,1157373,Pakistan,Australia,147,136
+126,1157374,Pakistan,Australia,150,117
+127,1157375,Pakistan,New Zealand,148,146
+128,1157376,New Zealand,Pakistan,153,154
+129,1157377,Pakistan,New Zealand,166,119
+130,1157759,West Indies,India,109,110
+131,1157760,India,West Indies,195,124
+132,1157761,West Indies,India,181,182
+133,1158071,West Indies,England,160,161
+134,1158072,England,West Indies,182,45
+135,1158073,West Indies,England,71,72
+136,1162727,United Arab Emirates,Australia,117,119
+137,1168247,India,Australia,126,127
+138,1168248,India,Australia,190,194
+139,1168521,Zimbabwe,Ireland,132,134
+140,1168522,Ireland,Zimbabwe,171,172
+141,1170457,United Arab Emirates,Nepal,153,132
+142,1170458,United Arab Emirates,Nepal,107,111
+143,1170459,Nepal,United Arab Emirates,104,90
+144,1172505,Scotland,Netherlands,153,154
+145,1172506,Ireland,Oman,159,144
+146,1172507,Oman,Netherlands,166,167
+147,1172508,Ireland,Scotland,180,181
+148,1172509,Netherlands,Ireland,182,183
+149,1172510,Oman,Scotland,111,115
+150,1176792,Papua New Guinea,Philippines,216,83
+151,1176793,Vanuatu,Papua New Guinea,124,125
+152,1176794,Vanuatu,Philippines,156,93
+153,1176796,Philippines,Vanuatu,46,36
+154,1176797,Vanuatu,Papua New Guinea,56,60
+155,1177485,United Arab Emirates,United States of America,182,158
+156,1178996,Germany,Italy,130,135
+157,1183524,Australia,Sri Lanka,233,99
+158,1183525,Sri Lanka,Australia,117,118
+159,1183526,Sri Lanka,Australia,142,145
+160,1183528,Pakistan,Australia,150,151
+161,1183529,Pakistan,Australia,106,109
+162,1184258,Ghana,Namibia,91,92
+163,1184261,Kenya,Ghana,141,88
+164,1184262,Namibia,Uganda,167,125
+165,1184266,Ghana,Uganda,113,117
+166,1184900,Nigeria,Ghana,135,107
+167,1184902,Kenya,Uganda,145,144
+168,1185181,Guernsey,Germany,117,119
+169,1185182,Denmark,Norway,141,95
+170,1185184,Jersey,Denmark,131,113
+171,1185185,Italy,Guernsey,121,110
+172,1185186,Jersey,Norway,160,80
+173,1185188,Norway,Germany,99,101
+174,1185190,Jersey,Germany,134,136
+175,1185192,Jersey,Italy,149,76
+176,1185193,Denmark,Germany,109,110
+177,1185313,South Africa,England,177,176
+178,1185314,England,South Africa,204,202
+179,1185315,South Africa,England,222,226
+180,1185316,Australia,South Africa,196,89
+181,1185317,South Africa,Australia,158,146
+182,1185318,Australia,South Africa,193,96
+183,1186488,Thailand,Malaysia,113,114
+184,1186490,Thailand,Maldives,130,131
+185,1186493,Maldives,Thailand,153,154
+186,1187005,South Africa,India,149,151
+187,1187006,India,South Africa,134,140
+188,1187013,India,Bangladesh,148,154
+189,1187014,Bangladesh,India,153,154
+190,1187015,India,Bangladesh,174,144
+191,1187018,West Indies,India,207,209
+192,1187019,India,West Indies,170,173
+193,1187020,India,West Indies,240,173
+194,1187665,New Zealand,England,153,154
+195,1187666,New Zealand,England,176,155
+196,1187667,New Zealand,England,180,166
+197,1187668,England,New Zealand,241,165
+198,1187677,New Zealand,India,203,204
+199,1187678,New Zealand,India,132,135
+200,1187681,India,New Zealand,163,156
+201,1188379,Netherlands,Zimbabwe,199,150
+202,1188621,West Indies,India,95,98
+203,1188622,India,West Indies,167,98
+204,1189743,Guernsey,Denmark,118,112
+205,1189744,Denmark,Italy,158,128
+206,1190767,Singapore,Qatar,186,153
+207,1190768,Malaysia,Kuwait,162,120
+208,1190769,Nepal,Qatar,122,124
+209,1190771,Malaysia,Nepal,83,86
+210,1190772,Kuwait,Qatar,197,187
+211,1190773,Malaysia,Singapore,92,96
+212,1190774,Kuwait,Nepal,141,143
+213,1190775,Malaysia,Qatar,144,147
+214,1190776,Singapore,Nepal,191,109
+215,1191006,Netherlands,United Arab Emirates,136,140
+216,1191008,Netherlands,United Arab Emirates,150,153
+217,1192223,Malaysia,Nepal,128,129
+218,1192224,Nepal,Malaysia,173,167
+219,1192875,Sri Lanka,New Zealand,174,175
+220,1192876,Sri Lanka,New Zealand,161,165
+221,1192877,Sri Lanka,New Zealand,125,88
+222,1197140,Zimbabwe,Bangladesh,144,148
+223,1197143,Bangladesh,Zimbabwe,175,136
+224,1197396,Bermuda,United States of America,141,135
+225,1197397,Canada,Cayman Islands,196,112
+226,1197399,Cayman Islands,United States of America,68,60
+227,1197400,Cayman Islands,Bermuda,116,117
+228,1197401,United States of America,Canada,144,145
+229,1197402,Cayman Islands,Canada,91,95
+230,1197403,United States of America,Bermuda,141,142
+231,1197404,Cayman Islands,United States of America,66,70
+232,1197406,Canada,United States of America,173,158
+233,1197407,Cayman Islands,Bermuda,114,115
+234,1197521,Netherlands,Ireland,167,169
+235,1197522,Oman,Ireland,173,130
+236,1197523,Hong Kong,Nepal,125,126
+237,1197524,Netherlands,Nepal,133,134
+238,1197525,Ireland,Hong Kong,208,142
+239,1197526,Ireland,Nepal,145,132
+240,1197527,Netherlands,Oman,94,95
+241,1197528,Netherlands,Hong Kong,185,148
+242,1197529,Nepal,Oman,64,65
+243,1198235,England,Australia,162,160
+244,1198236,Australia,England,157,158
+245,1198237,England,Australia,145,146
+246,1198245,Pakistan,England,195,199
+247,1198246,Pakistan,England,190,185
+248,1198489,Sri Lanka,Pakistan,165,101
+249,1198490,Sri Lanka,Pakistan,182,147
+250,1198491,Sri Lanka,Pakistan,147,134
+251,1199499,Singapore,Scotland,168,166
+252,1199500,Hong Kong,Ireland,153,155
+253,1199501,Netherlands,Kenya,166,136
+254,1199502,United Arab Emirates,Oman,108,109
+255,1199503,Bermuda,Papua New Guinea,89,90
+256,1199504,Jersey,Nigeria,184,115
+257,1199505,Netherlands,Namibia,140,96
+258,1199506,Scotland,Kenya,170,139
+259,1199507,Ireland,United Arab Emirates,125,129
+260,1199508,Papua New Guinea,Namibia,197,116
+261,1199509,Canada,Jersey,176,123
+262,1199510,Bermuda,Singapore,149,152
+263,1199511,Hong Kong,Oman,102,106
+264,1199512,Scotland,Papua New Guinea,146,142
+265,1199513,Hong Kong,United Arab Emirates,116,118
+266,1199514,Ireland,Oman,183,148
+267,1199515,Kenya,Bermuda,138,93
+268,1199516,Canada,Nigeria,159,109
+269,1199517,Namibia,Scotland,159,135
+270,1199518,Singapore,Netherlands,101,104
+271,1199519,Jersey,United Arab Emirates,147,112
+272,1199520,Bermuda,Namibia,106,111
+273,1199521,Nigeria,Oman,71,72
+274,1199522,Singapore,Kenya,157,159
+275,1199523,Canada,Ireland,156,146
+276,1199524,Hong Kong,Jersey,144,136
+277,1199525,Netherlands,Papua New Guinea,126,127
+278,1199526,Nigeria,United Arab Emirates,111,112
+279,1199527,Hong Kong,Canada,150,118
+280,1199528,Scotland,Bermuda,204,158
+281,1199530,Jersey,Ireland,105,110
+282,1199531,Namibia,Kenya,181,94
+283,1199532,Canada,Oman,144,145
+284,1199533,Nigeria,Ireland,66,67
+285,1199534,Netherlands,Bermuda,206,114
+286,1199535,Namibia,Singapore,191,104
+287,1199536,Papua New Guinea,Kenya,118,73
+288,1199537,Nigeria,Hong Kong,81,82
+289,1199538,Jersey,Oman,141,127
+290,1199539,Scotland,Netherlands,130,131
+291,1199540,United Arab Emirates,Canada,154,140
+292,1199541,United Arab Emirates,Netherlands,80,81
+293,1199542,Namibia,Oman,161,107
+294,1199543,Scotland,United Arab Emirates,198,108
+295,1199544,Oman,Hong Kong,134,122
+296,1199545,Oman,Scotland,167,168
+297,1199546,Netherlands,Ireland,158,137
+298,1199547,Papua New Guinea,Namibia,130,112
+299,1199548,Ireland,Namibia,135,108
+300,1199549,Papua New Guinea,Netherlands,128,134
+301,1200425,Scotland,Netherlands,252,194
+302,1200426,Scotland,Ireland,193,194
+303,1200427,Ireland,Netherlands,181,183
+304,1201668,Portugal,Spain,87,89
+305,1201669,Gibraltar,Portugal,113,116
+306,1201670,Gibraltar,Spain,98,99
+307,1201671,Spain,Portugal,143,114
+308,1201673,Gibraltar,Spain,95,96
+309,1201680,Nepal,Zimbabwe,132,133
+310,1201681,Singapore,Nepal,151,154
+311,1201682,Singapore,Zimbabwe,181,177
+312,1201683,Zimbabwe,Nepal,160,120
+313,1201685,Singapore,Zimbabwe,167,168
+314,1202007,Vanuatu,Malaysia,151,134
+315,1202008,Vanuatu,Malaysia,188,137
+316,1202009,Malaysia,Vanuatu,134,108
+317,1202010,Malaysia,Vanuatu,144,145
+318,1202011,Malaysia,Vanuatu,206,184
+319,1202243,Sri Lanka,India,142,144
+320,1202244,India,Sri Lanka,201,123
+321,1203676,Ireland,West Indies,208,204
+322,1203678,Ireland,West Indies,138,140
+323,1207081,Germany,Spain,139,142
+324,1207082,Germany,Spain,180,122
+325,1208606,Nepal,Bhutan,236,95
+326,1208609,Nepal,Maldives,163,79
+327,1208613,Maldives,Nepal,94,98
+328,1213058,Bangladesh,Pakistan,141,142
+329,1213059,Bangladesh,Pakistan,136,137
+330,1213874,West Indies,Sri Lanka,196,171
+331,1213875,Sri Lanka,West Indies,155,158
+332,1214670,Bangladesh,Zimbabwe,200,152
+333,1214671,Zimbabwe,Bangladesh,119,120
+334,1215136,Malaysia,Hong Kong,123,61
+335,1215137,Malaysia,Hong Kong,138,103
+336,1215138,Malaysia,Hong Kong,152,144
+337,1215139,Malaysia,Hong Kong,167,154
+338,1215140,Hong Kong,Malaysia,171,176
+339,1215159,Maldives,Oman,129,132
+340,1215160,United Arab Emirates,Saudi Arabia,150,138
+341,1215161,Qatar,Bahrain,106,109
+342,1215162,Iran,Kuwait,108,109
+343,1215163,Kuwait,Bahrain,210,123
+344,1215164,United Arab Emirates,Qatar,122,94
+345,1217738,Singapore,Thailand,139,96
+346,1217740,Hong Kong,Nepal,154,111
+347,1217741,Thailand,Malaysia,85,86
+348,1217742,Singapore,Malaysia,239,111
+349,1217744,Thailand,Nepal,66,72
+350,1217745,Singapore,Hong Kong,168,152
+351,1217747,Malaysia,Hong Kong,132,133
+352,1223952,India,Australia,161,150
+353,1223953,Australia,India,194,195
+354,1223954,Australia,India,186,174
+355,1229820,Belgium,Luxembourg,165,128
+356,1229822,Belgium,Czech Republic,161,74
+357,1229823,Belgium,Luxembourg,184,135
+358,1229824,Isle of Man,Guernsey,100,101
+359,1233464,Zimbabwe,Pakistan,156,157
+360,1233465,Zimbabwe,Pakistan,134,137
+361,1233466,Zimbabwe,Pakistan,129,130
+362,1233959,Pakistan,New Zealand,153,156
+363,1233960,Pakistan,New Zealand,163,164
+364,1233961,New Zealand,Pakistan,173,177
+365,1233971,New Zealand,Australia,184,131
+366,1233972,New Zealand,Australia,219,215
+367,1233973,Australia,New Zealand,208,144
+368,1233974,Australia,New Zealand,156,106
+369,1233975,Australia,New Zealand,142,143
+370,1233979,New Zealand,Bangladesh,210,144
+371,1233980,New Zealand,Bangladesh,173,142
+372,1233981,New Zealand,Bangladesh,141,76
+373,1235829,Bulgaria,Romania,128,95
+374,1235830,Romania,Bulgaria,148,96
+375,1235832,Bulgaria,Romania,60,61
+376,1237122,South Africa,England,179,183
+377,1237123,South Africa,England,146,147
+378,1237124,South Africa,England,191,192
+379,1239540,Pakistan,England,232,201
+380,1239541,England,Pakistan,200,155
+381,1239542,Pakistan,England,154,155
+382,1243019,Pakistan,South Africa,169,166
+383,1243020,Pakistan,South Africa,144,145
+384,1243021,South Africa,Pakistan,164,169
+385,1243388,India,England,124,130
+386,1243389,England,India,164,166
+387,1243390,India,England,156,158
+388,1243391,India,England,185,177
+389,1243392,India,England,224,188
+390,1249206,Sri Lanka,England,129,130
+391,1249207,Sri Lanka,England,111,108
+392,1249208,England,Sri Lanka,180,91
+393,1251575,South Africa,Pakistan,188,189
+394,1251576,Pakistan,South Africa,140,141
+395,1251577,South Africa,Pakistan,203,205
+396,1251578,South Africa,Pakistan,144,149
+397,1251953,South Africa,Ireland,165,132
+398,1251954,South Africa,Ireland,159,117
+399,1251955,South Africa,Ireland,189,140
+400,1252066,Sri Lanka,West Indies,131,134
+401,1252067,Sri Lanka,West Indies,160,117
+402,1252068,Sri Lanka,West Indies,131,134
+403,1256720,England,West Indies,103,104
+404,1256721,England,West Indies,171,170
+405,1256722,West Indies,England,224,204
+406,1256723,England,West Indies,193,159
+407,1256724,West Indies,England,179,162
+408,1257183,Pakistan,Zimbabwe,149,138
+409,1257184,Zimbabwe,Pakistan,118,99
+410,1257185,Pakistan,Zimbabwe,165,141
+411,1257404,Uganda,Namibia,134,135
+412,1257405,Namibia,Uganda,134,65
+413,1257406,Namibia,Uganda,189,124
+414,1257945,Netherlands,Nepal,136,141
+415,1257946,Netherlands,Malaysia,191,176
+416,1257947,Malaysia,Nepal,109,113
+417,1257948,Nepal,Netherlands,206,209
+418,1257950,Nepal,Malaysia,217,148
+419,1257951,Nepal,Netherlands,238,96
+420,1262758,India,Sri Lanka,164,126
+421,1262760,India,Sri Lanka,81,82
+422,1263151,South Africa,West Indies,160,161
+423,1263152,South Africa,West Indies,166,150
+424,1263153,South Africa,West Indies,167,166
+425,1263154,West Indies,South Africa,167,146
+426,1263155,South Africa,West Indies,168,143
+427,1263156,West Indies,Australia,145,127
+428,1263157,West Indies,Australia,196,140
+429,1263158,Australia,West Indies,141,142
+430,1263159,Australia,West Indies,189,185
+431,1263160,West Indies,Australia,199,183
+432,1263165,Pakistan,West Indies,157,150
+433,1263471,Australia,Sri Lanka,149,122
+434,1263708,Luxembourg,Czech Republic,126,127
+435,1263710,Austria,Czech Republic,162,84
+436,1263711,Czech Republic,Luxembourg,161,165
+437,1263712,Austria,Luxembourg,179,180
+438,1263713,Czech Republic,Austria,156,161
+439,1267304,Greece,Romania,157,159
+440,1267306,Serbia,Greece,144,147
+441,1267307,Bulgaria,Romania,157,161
+442,1267308,Romania,Serbia,191,100
+443,1267310,Serbia,Romania,115,116
+444,1267680,Zimbabwe,Bangladesh,152,153
+445,1267681,Zimbabwe,Bangladesh,166,143
+446,1267682,Zimbabwe,Bangladesh,193,194
+447,1268188,Belgium,Malta,99,103
+448,1268189,Malta,Belgium,50,52
+449,1268190,Malta,Belgium,114,115
+450,1268191,Belgium,Malta,128,125
+451,1268192,Belgium,Malta,172,133
+452,1270834,Bangladesh,Australia,131,108
+453,1270835,Australia,Bangladesh,121,123
+454,1270836,Bangladesh,Australia,127,117
+455,1270837,Bangladesh,Australia,104,105
+456,1270838,Bangladesh,Australia,122,62
+457,1271446,Norway,France,112,113
+458,1271447,France,Germany,94,97
+459,1271448,Germany,France,164,116
+460,1271630,South Africa,Sri Lanka,163,135
+461,1271631,Sri Lanka,South Africa,103,105
+462,1271632,Sri Lanka,South Africa,120,121
+463,1272094,Bangladesh,New Zealand,141,137
+464,1272095,New Zealand,Bangladesh,128,76
+465,1272096,New Zealand,Bangladesh,93,96
+466,1272097,New Zealand,Bangladesh,161,134
+467,1272373,Zimbabwe,Ireland,117,114
+468,1272374,Zimbabwe,Ireland,152,153
+469,1272375,Ireland,Zimbabwe,178,138
+470,1272376,Ireland,Zimbabwe,174,110
+471,1272377,Zimbabwe,Ireland,124,119
+472,1273136,Gibraltar,Malta,148,149
+473,1273138,Malta,Gibraltar,197,193
+474,1273141,Ghana,Rwanda,164,165
+475,1273143,Rwanda,Ghana,136,79
+476,1273144,Ghana,Rwanda,166,30
+477,1273145,Rwanda,Ghana,147,148
+478,1273146,Sweden,Finland,135,139
+479,1273147,Sweden,Finland,141,142
+480,1273148,Finland,Sweden,141,113
+481,1273149,Finland,Sweden,145,146
+482,1273271,Scotland,Zimbabwe,141,134
+483,1273272,Zimbabwe,Scotland,136,126
+484,1273273,Scotland,Zimbabwe,177,180
+485,1273712,Papua New Guinea,Oman,129,131
+486,1273713,Scotland,Bangladesh,140,134
+487,1273714,Netherlands,Ireland,106,107
+488,1273715,Namibia,Sri Lanka,96,100
+489,1273716,Scotland,Papua New Guinea,165,148
+490,1273717,Bangladesh,Oman,153,127
+491,1273718,Netherlands,Namibia,164,166
+492,1273719,Sri Lanka,Ireland,171,101
+493,1273720,Bangladesh,Papua New Guinea,181,97
+494,1273721,Oman,Scotland,122,123
+495,1273722,Ireland,Namibia,125,126
+496,1273723,Netherlands,Sri Lanka,44,45
+497,1273724,South Africa,Australia,118,121
+498,1273725,West Indies,England,55,56
+499,1273726,Bangladesh,Sri Lanka,171,172
+500,1273729,West Indies,South Africa,143,144
+501,1273730,New Zealand,Pakistan,134,135
+502,1273731,Bangladesh,England,124,126
+503,1273732,Scotland,Namibia,109,115
+504,1273733,Sri Lanka,Australia,154,155
+505,1273734,West Indies,Bangladesh,142,139
+506,1273736,Sri Lanka,South Africa,142,146
+507,1273737,Australia,England,125,126
+508,1273739,India,New Zealand,110,111
+509,1273740,England,Sri Lanka,163,137
+510,1273741,Bangladesh,South Africa,84,86
+511,1273742,Pakistan,Namibia,189,144
+512,1273743,New Zealand,Scotland,172,156
+513,1273745,Bangladesh,Australia,73,78
+514,1273746,Sri Lanka,West Indies,189,169
+515,1273747,New Zealand,Namibia,163,111
+516,1273748,Scotland,India,85,89
+517,1273749,West Indies,Australia,157,161
+518,1273750,South Africa,England,189,179
+519,1273752,Pakistan,Scotland,189,117
+520,1273753,Namibia,India,132,136
+521,1273754,England,New Zealand,166,167
+522,1273755,Pakistan,Australia,176,177
+523,1273756,New Zealand,Australia,172,173
+524,1275039,Nigeria,Kenya,107,108
+525,1275040,Uganda,Nigeria,152,96
+526,1275042,Kenya,Nigeria,162,101
+527,1275043,Nigeria,Uganda,123,124
+528,1275044,Kenya,Uganda,151,129
+529,1275045,Nigeria,Kenya,133,107
+530,1275047,Uganda,Nigeria,172,117
+531,1275051,Uganda,Kenya,120,114
+532,1275052,Spain,Germany,128,132
+533,1275053,Germany,Spain,115,116
+534,1275054,Germany,Spain,119,120
+535,1275269,Luxembourg,Bulgaria,187,125
+536,1275270,Hungary,Czech Republic,165,160
+537,1278671,New Zealand,India,164,166
+538,1278672,New Zealand,India,153,155
+539,1279379,Estonia,Cyprus,102,105
+540,1280058,Scotland,Namibia,137,138
+541,1280059,Namibia,Papua New Guinea,174,160
+542,1280060,United Arab Emirates,Ireland,123,124
+543,1280062,Ireland,United Arab Emirates,134,139
+544,1280063,Papua New Guinea,Scotland,154,156
+545,1282276,Switzerland,Malta,150,142
+546,1282739,Denmark,Italy,100,101
+547,1282743,Italy,Germany,103,104
+548,1282744,Italy,Denmark,141,132
+549,1282745,Germany,Jersey,85,86
+550,1282749,Denmark,Jersey,130,131
+551,1283021,Rwanda,Ghana,153,157
+552,1283024,Malawi,Uganda,98,101
+553,1283026,Swaziland,Malawi,97,99
+554,1283034,Swaziland,Ghana,74,75
+555,1283035,Swaziland,Seychelles,128,130
+556,1283037,Uganda,Ghana,176,97
+557,1283038,Swaziland,Rwanda,77,79
+558,1283041,Uganda,Seychelles,164,69
+559,1283042,Botswana,Sierra Leone,157,85
+560,1283043,Tanzania,Mozambique,242,155
+561,1283045,Sierra Leone,Tanzania,99,104
+562,1283050,Cameroon,Sierra Leone,89,90
+563,1283092,Sierra Leone,Nigeria,84,85
+564,1284490,Bahrain,Kuwait,124,129
+565,1284493,Maldives,Bahrain,88,93
+566,1284495,Maldives,Kuwait,103,107
+567,1286683,Belize,Bermuda,85,89
+568,1286685,Argentina,Canada,109,115
+569,1289046,Tanzania,Uganda,140,141
+570,1291187,United States of America,Ireland,188,162
+571,1299593,Oman,Nepal,135,137
+572,1299594,Oman,Ireland,137,140
+573,1299596,Ireland,Nepal,127,111
+574,211028,England,Australia,179,79
+575,211048,Australia,New Zealand,214,170
+576,222678,South Africa,New Zealand,133,134
+577,225263,England,Pakistan,144,148
+578,225271,Sri Lanka,England,163,161
+579,226374,Australia,South Africa,209,114
+580,238195,South Africa,Australia,201,199
+581,249227,Australia,England,221,144
+582,251487,New Zealand,Sri Lanka,162,62
+583,251488,Sri Lanka,New Zealand,115,116
+584,255954,South Africa,India,126,127
+585,258463,West Indies,England,208,193
+586,258464,West Indies,England,169,173
+587,287853,West Indies,South Africa,205,208
+588,287854,Kenya,New Zealand,73,74
+589,287855,Pakistan,Scotland,171,120
+590,287856,Australia,Zimbabwe,138,139
+591,287857,West Indies,Bangladesh,164,165
+592,287858,England,Zimbabwe,188,138
+593,287860,Sri Lanka,Kenya,260,88
+594,287861,England,Australia,135,136
+595,287863,New Zealand,Sri Lanka,164,168
+596,287864,Bangladesh,South Africa,144,146
+597,287865,New Zealand,India,190,180
+598,287866,Bangladesh,Australia,123,124
+599,287867,South Africa,England,154,135
+600,287868,Pakistan,Sri Lanka,189,156
+601,287869,New Zealand,England,164,159
+602,287870,Australia,Pakistan,164,165
+603,287871,Sri Lanka,Bangladesh,147,83
+604,287872,New Zealand,South Africa,153,158
+605,287873,India,England,218,200
+606,287874,Sri Lanka,Australia,101,102
+607,287875,Bangladesh,Pakistan,140,141
+608,287876,India,South Africa,153,116
+609,287877,New Zealand,Pakistan,143,147
+610,287878,India,Australia,188,173
+611,287879,India,Pakistan,157,152
+612,291343,Australia,New Zealand,186,132
+613,291356,India,Australia,74,75
+614,296903,New Zealand,England,123,127
+615,297800,Australia,India,166,167
+616,298795,New Zealand,South Africa,129,131
+617,298804,West Indies,South Africa,131,134
+618,300435,England,New Zealand,184,152
+619,300436,England,New Zealand,193,143
+620,306987,Kenya,Bangladesh,138,139
+621,306989,Pakistan,Bangladesh,191,161
+622,306991,Kenya,Pakistan,92,93
+623,319112,South Africa,West Indies,58,60
+624,319142,Australia,West Indies,97,102
+625,343764,Pakistan,Bangladesh,203,101
+626,350347,South Africa,Bangladesh,118,109
+627,350475,Australia,South Africa,166,168
+628,350476,South Africa,Australia,156,139
+629,351694,Australia,South Africa,182,130
+630,351695,South Africa,Australia,157,161
+631,351696,Australia,New Zealand,150,149
+632,352674,England,West Indies,121,123
+633,354456,Bermuda,Scotland,99,100
+634,355991,England,Netherlands,162,163
+635,355992,Scotland,New Zealand,89,90
+636,355993,Australia,West Indies,169,172
+637,355994,India,Bangladesh,180,155
+638,355995,South Africa,Scotland,211,81
+639,355996,England,Pakistan,185,137
+640,355997,Bangladesh,Ireland,137,138
+641,355998,Australia,Sri Lanka,159,160
+642,355999,Pakistan,Netherlands,175,93
+643,356000,South Africa,New Zealand,128,127
+644,356001,Ireland,India,112,113
+645,356003,New Zealand,Ireland,198,115
+646,356004,England,South Africa,111,114
+647,356006,India,West Indies,153,156
+648,356007,South Africa,West Indies,183,163
+649,356008,New Zealand,Pakistan,99,100
+650,356009,Sri Lanka,Ireland,144,135
+651,356010,England,India,153,150
+652,356011,England,West Indies,161,82
+653,356012,Pakistan,Ireland,159,120
+654,356013,Sri Lanka,New Zealand,158,110
+655,356014,South Africa,India,130,118
+656,356015,Pakistan,South Africa,149,142
+657,356016,Sri Lanka,West Indies,158,101
+658,356017,Sri Lanka,Pakistan,138,139
+659,361530,Kenya,Ireland,67,72
+660,361531,Scotland,Netherlands,107,110
+661,361656,Sri Lanka,Pakistan,137,141
+662,361660,Pakistan,Sri Lanka,132,133
+663,366622,India,New Zealand,149,150
+664,366708,New Zealand,West Indies,191,155
+665,386494,India,New Zealand,162,166
+666,386535,Sri Lanka,India,171,174
+667,387563,England,South Africa,202,127
+668,387564,South Africa,England,241,157
+669,392615,Australia,Pakistan,108,109
+670,401076,Bangladesh,West Indies,118,119
+671,403375,Pakistan,Sri Lanka,172,120
+672,403385,New Zealand,Sri Lanka,141,138
+673,403386,New Zealand,Sri Lanka,170,148
+674,406197,Australia,West Indies,179,141
+675,406198,West Indies,Australia,138,142
+676,406207,Australia,Pakistan,127,125
+677,412677,West Indies,Ireland,138,68
+678,412678,Sri Lanka,New Zealand,135,139
+679,412680,Pakistan,Bangladesh,172,151
+680,412682,India,South Africa,186,172
+681,412683,Australia,Pakistan,191,157
+682,412684,Zimbabwe,New Zealand,84,36
+683,412685,England,West Indies,191,60
+684,412686,Sri Lanka,Zimbabwe,173,29
+685,412688,Australia,Bangladesh,141,114
+686,412689,Pakistan,England,147,151
+687,412690,South Africa,New Zealand,170,157
+688,412691,Australia,India,184,135
+689,412692,Sri Lanka,West Indies,195,138
+690,412693,New Zealand,Pakistan,133,132
+691,412694,England,South Africa,168,129
+692,412696,Australia,Sri Lanka,168,87
+693,412697,Pakistan,South Africa,148,137
+694,412698,New Zealand,England,149,153
+695,412699,India,Sri Lanka,163,167
+696,412700,West Indies,Australia,105,109
+697,412701,Sri Lanka,England,128,132
+698,412702,Pakistan,Australia,191,197
+699,412703,Australia,England,147,148
+700,423782,Bangladesh,New Zealand,78,79
+701,423787,New Zealand,Australia,118,119
+702,426392,Pakistan,Australia,167,144
+703,426393,Pakistan,Australia,162,151
+704,426417,Pakistan,England,126,129
+705,426418,Pakistan,England,89,90
+706,426723,Pakistan,New Zealand,161,112
+707,426724,Pakistan,New Zealand,153,146
+708,430884,Sri Lanka,India,215,186
+709,430885,Sri Lanka,India,206,211
+710,439139,Zimbabwe,West Indies,105,79
+711,439497,Canada,Netherlands,142,146
+712,439499,Canada,Kenya,138,141
+713,439505,Ireland,Scotland,136,99
+714,439510,Ireland,Netherlands,151,86
+715,440945,Pakistan,England,129,130
+716,440946,England,Pakistan,148,149
+717,446956,Australia,Sri Lanka,133,135
+718,446960,Australia,England,157,158
+719,446961,Australia,England,147,143
+720,447539,South Africa,West Indies,120,119
+721,452153,Zimbabwe,India,111,112
+722,452154,Zimbabwe,India,140,144
+723,456991,New Zealand,Sri Lanka,120,92
+724,456992,New Zealand,Sri Lanka,81,82
+725,461565,Pakistan,South Africa,120,125
+726,463141,Zimbabwe,South Africa,168,169
+727,463142,South Africa,Zimbabwe,194,186
+728,463149,India,South Africa,168,147
+729,473918,Pakistan,New Zealand,143,146
+730,473919,New Zealand,Pakistan,185,146
+731,473920,Pakistan,New Zealand,183,80
+732,474466,England,Sri Lanka,136,137
+733,474476,India,England,165,169
+734,489212,West Indies,Pakistan,150,143
+735,489220,India,West Indies,159,143
+736,514023,South Africa,Australia,146,147
+737,514024,Australia,South Africa,147,148
+738,516204,Sri Lanka,Australia,198,163
+739,516205,Sri Lanka,Australia,157,149
+740,518954,Australia,India,171,140
+741,518955,Australia,India,131,135
+742,520595,Zimbabwe,New Zealand,159,160
+743,520596,Zimbabwe,New Zealand,200,202
+744,520597,South Africa,New Zealand,147,148
+745,520598,New Zealand,South Africa,173,174
+746,520599,South Africa,New Zealand,165,162
+747,521217,India,England,120,121
+748,523736,Pakistan,Zimbabwe,141,136
+749,525816,West Indies,England,125,128
+750,525817,West Indies,England,113,88
+751,527012,Zimbabwe,New Zealand,123,127
+752,527013,New Zealand,Zimbabwe,187,154
+753,530432,Sri Lanka,Pakistan,141,142
+754,531635,Pakistan,England,144,136
+755,531636,England,Pakistan,150,112
+756,531637,England,Pakistan,129,124
+757,531982,West Indies,Bangladesh,132,135
+758,533272,Sri Lanka,Zimbabwe,182,100
+759,533275,Zimbabwe,South Africa,93,94
+760,533276,New Zealand,Bangladesh,191,132
+761,533278,South Africa,Sri Lanka,78,46
+762,533279,West Indies,Australia,191,100
+763,533280,Pakistan,New Zealand,177,164
+764,533281,India,England,170,80
+765,533283,Bangladesh,Pakistan,175,178
+766,533285,West Indies,England,179,164
+767,533286,South Africa,Pakistan,133,136
+768,533287,India,Australia,140,141
+769,533288,New Zealand,England,148,149
+770,533289,West Indies,Sri Lanka,129,130
+771,533290,South Africa,Australia,146,147
+772,533291,Pakistan,India,128,129
+773,533293,Sri Lanka,England,169,150
+774,533294,Pakistan,Australia,149,117
+775,533295,India,South Africa,152,151
+776,533296,Sri Lanka,Pakistan,139,123
+777,533297,West Indies,Australia,205,131
+778,533298,West Indies,Sri Lanka,137,101
+779,534208,West Indies,England,172,173
+780,534233,England,South Africa,118,119
+781,534235,England,South Africa,118,90
+782,538068,Pakistan,Bangladesh,135,85
+783,540173,West Indies,Australia,150,153
+784,540174,West Indies,Australia,160,146
+785,543883,Kenya,Ireland,107,109
+786,543884,Kenya,Ireland,131,132
+787,543885,Ireland,Kenya,107,105
+788,546410,Netherlands,Canada,135,93
+789,546414,Kenya,Ireland,71,72
+790,546442,Ireland,Scotland,159,142
+791,546462,Canada,Ireland,106,109
+792,546470,Netherlands,Ireland,114,115
+793,546473,Canada,Scotland,135,136
+794,556252,South Africa,India,219,71
+795,560921,West Indies,New Zealand,209,153
+796,560922,West Indies,New Zealand,177,116
+797,562437,Sri Lanka,Pakistan,132,95
+798,562438,Pakistan,Sri Lanka,122,99
+799,564786,India,Sri Lanka,155,116
+800,565810,England,India,157,158
+801,565811,India,England,177,181
+802,565820,New Zealand,India,167,166
+803,566926,New Zealand,England,201,196
+804,566937,Australia,England,248,209
+805,566938,England,Australia,195,168
+806,567071,Bangladesh,Ireland,190,119
+807,567205,Netherlands,Bangladesh,144,145
+808,567353,New Zealand,South Africa,86,87
+809,567354,South Africa,New Zealand,165,169
+810,567355,South Africa,New Zealand,179,146
+811,567367,Pakistan,South Africa,195,100
+812,569237,England,New Zealand,214,174
+813,569238,New Zealand,England,192,137
+814,569239,New Zealand,England,139,143
+815,571148,Australia,Pakistan,89,90
+816,571150,Australia,Pakistan,168,74
+817,573019,Australia,Sri Lanka,137,139
+818,573020,Sri Lanka,Australia,161,119
+819,573027,West Indies,Australia,191,164
+820,573672,Bangladesh,Netherlands,128,131
+821,587476,West Indies,Bangladesh,197,179
+822,589306,India,Pakistan,133,134
+823,589307,India,Pakistan,192,181
+824,592268,Kenya,Canada,126,128
+825,592269,Kenya,Canada,139,118
+826,592276,Netherlands,Kenya,113,114
+827,593986,Zimbabwe,West Indies,130,131
+828,593987,West Indies,Zimbabwe,158,117
+829,602477,Sri Lanka,Bangladesh,198,181
+830,623571,Zimbabwe,Bangladesh,168,162
+831,623572,Bangladesh,Zimbabwe,168,134
+832,630951,Netherlands,Kenya,172,176
+833,635658,South Africa,Sri Lanka,115,103
+834,635659,South Africa,Sri Lanka,145,123
+835,635660,South Africa,Sri Lanka,163,164
+836,636164,Australia,England,213,200
+837,636165,England,Australia,130,131
+838,636166,Australia,England,195,111
+839,636536,West Indies,England,170,143
+840,636537,England,West Indies,152,155
+841,636538,England,West Indies,165,160
+842,645645,West Indies,Pakistan,152,158
+843,645647,Pakistan,West Indies,135,124
+844,647247,Australia,India,201,202
+845,648681,South Africa,Australia,80,81
+846,648683,South Africa,Australia,128,129
+847,649101,Pakistan,South Africa,98,99
+848,649103,South Africa,Pakistan,150,144
+849,657633,Sri Lanka,Pakistan,145,146
+850,657635,Sri Lanka,Pakistan,211,187
+851,659545,Pakistan,Zimbabwe,161,136
+852,659547,Pakistan,Zimbabwe,179,160
+853,660113,Ireland,Canada,168,166
+854,660149,Kenya,Scotland,183,91
+855,660173,Scotland,Netherlands,165,150
+856,660185,Netherlands,Kenya,130,101
+857,660209,Kenya,Canada,146,125
+858,660223,Scotland,Netherlands,147,149
+859,661695,New Zealand,West Indies,189,108
+860,661697,West Indies,New Zealand,159,163
+861,667731,England,India,180,177
+862,667887,Sri Lanka,England,183,174
+863,668959,New Zealand,Bangladesh,204,189
+864,668969,New Zealand,Sri Lanka,142,143
+865,682899,Nepal,Hong Kong,149,69
+866,682901,Zimbabwe,Ireland,163,164
+867,682903,United Arab Emirates,Netherlands,151,152
+868,682907,Nepal,Bangladesh,126,132
+869,682909,Netherlands,Zimbabwe,140,146
+870,682911,United Arab Emirates,Ireland,123,103
+871,682915,Bangladesh,Hong Kong,108,114
+872,682917,United Arab Emirates,Zimbabwe,116,118
+873,682919,Ireland,Netherlands,189,193
+874,682921,Pakistan,India,130,131
+875,682923,Sri Lanka,South Africa,165,160
+876,682925,England,New Zealand,172,52
+877,682927,Pakistan,Australia,191,175
+878,682929,West Indies,India,129,130
+879,682931,South Africa,New Zealand,170,168
+880,682933,Netherlands,Sri Lanka,39,40
+881,682935,West Indies,Bangladesh,171,98
+882,682937,South Africa,Netherlands,145,139
+883,682939,Sri Lanka,England,189,190
+884,682941,Australia,West Indies,178,179
+885,682943,Bangladesh,India,138,141
+886,682945,Netherlands,New Zealand,151,152
+887,682947,South Africa,England,196,193
+888,682949,Pakistan,Bangladesh,190,140
+889,682951,India,Australia,159,86
+890,682953,Netherlands,England,133,88
+891,682955,Sri Lanka,New Zealand,119,60
+892,682957,Bangladesh,Australia,153,158
+893,682959,West Indies,Pakistan,166,82
+894,682961,Sri Lanka,West Indies,160,80
+895,682963,South Africa,India,172,176
+896,682965,India,Sri Lanka,130,134
+897,685727,South Africa,Pakistan,153,60
+898,685729,Pakistan,South Africa,176,170
+899,690351,Sri Lanka,Bangladesh,168,166
+900,690353,Bangladesh,Sri Lanka,120,123
+901,702141,West Indies,Ireland,116,117
+902,702143,West Indies,Ireland,96,85
+903,722335,South Africa,West Indies,165,168
+904,722337,South Africa,West Indies,231,236
+905,727917,Pakistan,Australia,96,97
+906,730283,West Indies,New Zealand,132,117
+907,730285,West Indies,New Zealand,165,126
+908,736063,South Africa,West Indies,195,126
+909,742617,New Zealand,Pakistan,135,140
+910,743953,England,New Zealand,191,135
+911,743975,England,Australia,182,177
+912,754039,New Zealand,Pakistan,144,127
+913,754717,Australia,South Africa,144,145
+914,754719,South Africa,Australia,101,102
+915,754721,South Africa,Australia,145,146
+916,800479,England,South Africa,134,135
+917,800481,England,South Africa,171,172
+918,802327,Nepal,Hong Kong,72,73
+919,817203,South Africa,Bangladesh,148,96
+920,817205,South Africa,Bangladesh,169,138
+921,848839,New Zealand,South Africa,151,152
+922,848841,New Zealand,South Africa,177,145
+923,858491,Pakistan,Bangladesh,141,143
+924,860279,Pakistan,Sri Lanka,175,146
+925,860281,Sri Lanka,Pakistan,172,174
+926,868723,Zimbabwe,Pakistan,172,173
+927,868725,Zimbabwe,Pakistan,175,176
+928,875457,United Arab Emirates,Scotland,109,110
+929,875471,Netherlands,Scotland,191,159
+930,875481,United Arab Emirates,Netherlands,119,125
+931,875491,Nepal,Ireland,53,54
+932,875501,Ireland,Papua New Guinea,123,124
+933,875507,Nepal,Hong Kong,109,110
+934,875513,Nepal,Papua New Guinea,93,99
+935,875521,Hong Kong,Ireland,129,124
+936,875549,Hong Kong,Scotland,116,117
+937,875553,Ireland,Netherlands,128,129
+938,883343,Netherlands,Nepal,172,69
+939,883345,Netherlands,Nepal,149,131
+940,884347,Australia,South Africa,157,158
+941,884349,South Africa,Australia,204,205
+942,884351,South Africa,Australia,178,181
+943,885969,India,Zimbabwe,178,124
+944,885971,Zimbabwe,India,145,135
+945,889463,Ireland,Scotland,166,167
+946,894293,New Zealand,Zimbabwe,198,118
+947,895819,India,Australia,184,157
+948,895821,Australia,India,197,200
+949,902649,England,Pakistan,160,146
+950,902651,England,Pakistan,172,169
+951,903587,India,South Africa,199,200
+952,903589,India,South Africa,92,96
+953,913633,Sri Lanka,England,140,144
+954,913663,England,Pakistan,135,139
+955,914217,New Zealand,Sri Lanka,182,179
+956,914219,Sri Lanka,New Zealand,142,147
+957,914221,Pakistan,New Zealand,171,155
+958,914223,Pakistan,New Zealand,168,171
+959,914225,New Zealand,Pakistan,196,101
+960,915783,Sri Lanka,West Indies,215,185
+961,915785,West Indies,Sri Lanka,162,139
+962,919603,Pakistan,Zimbabwe,136,123
+963,919605,Pakistan,Zimbabwe,136,121
+964,930577,Oman,Hong Kong,131,127
+965,931396,Zimbabwe,Bangladesh,131,136
+966,931398,Bangladesh,Zimbabwe,135,136
+967,936153,South Africa,Sri Lanka,126,107
+968,936155,South Africa,Sri Lanka,113,119
+969,936157,South Africa,Sri Lanka,169,170
+970,951305,Zimbabwe,Hong Kong,158,144
+971,951309,Bangladesh,Netherlands,153,145
+972,951311,Ireland,Oman,154,157
+973,951313,Zimbabwe,Scotland,147,136
+974,951323,Hong Kong,Scotland,127,78
+975,951325,Netherlands,Ireland,59,47
+976,951327,Bangladesh,Oman,180,65
+977,951329,New Zealand,India,126,79
+978,951331,England,West Indies,182,183
+979,951333,Pakistan,Bangladesh,201,146
+980,951337,New Zealand,Australia,142,134
+981,951339,South Africa,England,229,230
+982,951341,Pakistan,India,118,119
+983,951345,Sri Lanka,West Indies,122,127
+984,951347,Bangladesh,Australia,156,157
+985,951349,New Zealand,Pakistan,180,158
+986,951353,India,Bangladesh,146,145
+987,951355,Australia,Pakistan,193,172
+988,951357,South Africa,West Indies,122,123
+989,951359,New Zealand,Bangladesh,145,70
+990,951361,England,Sri Lanka,171,161
+991,951363,Australia,India,160,161
+992,951367,Sri Lanka,South Africa,120,122
+993,951369,New Zealand,England,153,159
+994,951371,India,West Indies,192,196
+995,951373,England,West Indies,155,161
+996,953103,Scotland,Hong Kong,66,72
+997,953105,Scotland,Hong Kong,161,124
+998,954735,Ireland,Papua New Guinea,96,89
+999,954737,Papua New Guinea,Ireland,116,105
+1000,954741,Ireland,United Arab Emirates,134,100
+1001,954743,United Arab Emirates,Ireland,133,128
+1002,958415,Zimbabwe,Bangladesh,163,166
+1003,958417,Bangladesh,Zimbabwe,167,125
+1004,958419,Zimbabwe,Bangladesh,187,156
+1005,958421,Zimbabwe,Bangladesh,180,162
+1006,963697,India,Sri Lanka,101,105
+1007,963699,India,Sri Lanka,196,127
+1008,963701,Sri Lanka,India,82,84
+1009,966373,United Arab Emirates,Scotland,148,139
+1010,966735,Oman,Hong Kong,180,175
+1011,966739,Hong Kong,United Arab Emirates,146,147
+1012,966745,India,Bangladesh,166,121
+1013,966747,Sri Lanka,United Arab Emirates,129,115
+1014,966749,Bangladesh,United Arab Emirates,133,82
+1015,966751,Pakistan,India,83,85
+1016,966753,Bangladesh,Sri Lanka,147,124
+1017,966755,United Arab Emirates,Pakistan,129,131
+1018,966757,Sri Lanka,India,138,142
+1019,966759,Pakistan,Bangladesh,129,131
+1020,966761,United Arab Emirates,India,81,82
+1021,966763,Sri Lanka,Pakistan,150,151
+1022,966765,Bangladesh,India,120,122
+1023,967081,Netherlands,United Arab Emirates,157,73
+1024,995467,Australia,Sri Lanka,263,178
+1025,995469,Sri Lanka,Australia,128,130
