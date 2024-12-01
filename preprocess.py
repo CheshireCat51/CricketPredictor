@@ -7,7 +7,7 @@ import glob
 deliveries = []
 results = []
 
-for file_name in glob.glob('./all_male_json/*.json'):
+for file_name in glob.glob('./t20s_json/*.json'):
     with open(file_name, 'r') as file:
         match_data = json.load(file)
 
