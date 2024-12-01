@@ -37,7 +37,7 @@ if __name__ == '__main__':
     team_a_rank = [i+1 for i in range(len(sorted_teams)) if unique_teams[team_a_id-1] == sorted_teams[i]][0]
     team_b_rank = [i+1 for i in range(len(sorted_teams)) if unique_teams[team_b_id-1] == sorted_teams[i]][0]
 
-    print(team_a_rank)
-    print(team_b_rank)
+    # print(team_a_rank)
+    # print(team_b_rank)
 
     predict_single(np.array([team_a_rank, team_b_rank]), [team_a_id, team_b_id])
